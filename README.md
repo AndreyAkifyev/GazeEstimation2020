@@ -1,3 +1,3 @@
 # GazeEstimation2020
 
-It is my first computer vision project.
+This is my first computer vision project.
