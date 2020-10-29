@@ -1,6 +1,6 @@
 # GazeEstimation2020
 
-This is my first computer vision project.
+This is my first computer vision project, hope you like it!
 
 Files model_x.pkl and model_y.pkl are pretrained SVR models for predicting the gaze vector by eye landmarks.
 Notebook sandbox.ipynb contains my attempts to extract features from dataset UnityEyes and to train the SVR model with best hyperparameters.
