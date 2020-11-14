@@ -5,8 +5,8 @@ import numpy as np
 import joblib
 import sklearn
 import torch
-from eye_sample import EyeSample
-from eye_prediction import EyePrediction
+from utils.eye_sample import EyeSample
+from utils.eye_prediction import EyePrediction
 from models.PupilNet import PupilNet_v2
 import torch.nn as nn
 
