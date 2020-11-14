@@ -2,10 +2,9 @@
 
 This is my first computer vision project, hope you like it! =)
 
-Files model_x.pkl and model_y.pkl are pretrained SVR models for predicting the gaze vector using eye landmarks.
-Notebook sandbox.ipynb contains my attempts to extract features from dataset [UnityEyes](https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/tutorial.html) and to train the SVR model with best hyperparameters.
+In the folder "models" you can find PupilNet and pretrained weights for it for pupil detection. Also there are pretrained SVR models for predicting gaze direction. Folder "notebooks" contains Jupyter notebooks with my attempts to train models. As training dataset I used [UnityEyes](https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/tutorial.html).
 
-In the example.mp4 you can see how the eye tracker works.
+In the example.avi you can see how the eye tracker works.
 
 To install necessary libraries you may run:
 ```
